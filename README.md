@@ -1,1 +1,1 @@
-# y-sync
+# The very begining of y-sync project.
